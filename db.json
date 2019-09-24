@@ -1,0 +1,40 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "Software COE"
+    },
+    {
+      "id": 2,
+      "name": "Finance"
+    },
+    {
+      "id": 3,
+      "name": "Human Resources"
+    },
+    {
+      "id": 4,
+      "name": "Learning & Development"
+    },
+    {
+      "id": 5,
+      "name": "Marketing"
+    },
+    {
+      "name": "HR",
+      "id": 6
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Sivaram",
+      "email": "sivaram.aptech@gmail.com",
+      "phone": "8019133783",
+      "department": "Learning & Development"
+    }
+  ],
+  "authenticate": {
+    "token": "some-unique-token"
+  }
+}
